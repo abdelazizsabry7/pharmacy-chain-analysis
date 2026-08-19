@@ -1,0 +1,161 @@
+product_id,product_name,category,cost_price,retail_price
+PROD001,Paracetamol 100mg (Syrup),Analgesics,15.44,20.57
+PROD002,Ibuprofen 10mg (Syrup),Analgesics,16.5,23.58
+PROD003,Aspirin 500mg (Syrup),Analgesics,23.62,31.82
+PROD004,Aspirin 500mg (Tablets),Analgesics,10.68,15.12
+PROD005,Tramadol 10mg (Syrup),Analgesics,3.91,5.05
+PROD006,Naproxen 20mg (Syrup),Analgesics,18.75,23.53
+PROD007,Diclofenac 10mg (Tablets),Analgesics,3.4,4.67
+PROD008,Diclofenac 20mg (Syrup),Analgesics,13.42,17.27
+PROD009,Mefenamic Acid 500mg (Tablets),Analgesics,4.55,5.93
+PROD010,Mefenamic Acid 100mg (Capsules),Analgesics,24.91,33.3
+PROD011,Amoxicillin 100mg (Capsules),Antibiotics,57.12,78.28
+PROD012,Amoxicillin 10mg (Tablets),Antibiotics,59.16,77.17
+PROD013,Azithromycin 500mg (Tablets),Antibiotics,29.58,37.77
+PROD014,Azithromycin 500mg (Tablets),Antibiotics,18.82,25.42
+PROD015,Ciprofloxacin 500mg (Capsules),Antibiotics,10.75,13.5
+PROD016,Cephalexin 500mg (Tablets),Antibiotics,54.98,70.73
+PROD017,Doxycycline 10mg (Capsules),Antibiotics,57.22,76.69
+PROD018,Doxycycline 10mg (Tablets),Antibiotics,17.57,24.42
+PROD019,Clarithromycin 20mg (Tablets),Antibiotics,18.43,23.22
+PROD020,Atorvastatin 10mg (Tablets),Cardiologics,15.83,19.49
+PROD021,Amlodipine 20mg (Tablets),Cardiologics,30.48,36.37
+PROD022,Amlodipine 500mg (Capsules),Cardiologics,41.44,48.23
+PROD023,Lisinopril 100mg (Capsules),Cardiologics,23.04,28.42
+PROD024,Metoprolol 100mg (Tablets),Cardiologics,17.99,20.76
+PROD025,Losartan 20mg (Tablets),Cardiologics,35.51,45.06
+PROD026,Ramipril 500mg (Tablets),Cardiologics,37.85,45.47
+PROD027,Clopidogrel 10mg (Tablets),Cardiologics,19.72,25.02
+PROD028,Clopidogrel 500mg (Capsules),Cardiologics,6.14,7.44
+PROD029,Metformin 10mg (Capsules),Antidiabetics,29.01,36.27
+PROD030,Glimepiride 100mg (Tablets),Antidiabetics,44.71,55.43
+PROD031,Glimepiride 100mg (Capsules),Antidiabetics,42.02,48.62
+PROD032,Sitagliptin 100mg (Capsules),Antidiabetics,42.16,48.88
+PROD033,Gliclazide 20mg (Capsules),Antidiabetics,8.69,11.13
+PROD034,Gliclazide 100mg (Tablets),Antidiabetics,33.89,44.02
+PROD035,Pioglitazone 20mg (Capsules),Antidiabetics,22.92,29.5
+PROD036,Dapagliflozin 10mg (Tablets),Antidiabetics,44.33,51.63
+PROD037,Omeprazole 10mg (Capsules),Gastrointestinals,6.44,8.84
+PROD038,Pantoprazole 100mg (Tablets),Gastrointestinals,8.26,11.82
+PROD039,Ranitidine 10mg (Tablets),Gastrointestinals,15.04,21.44
+PROD040,Ranitidine 10mg (Tablets),Gastrointestinals,15.97,22.45
+PROD041,Domperidone 20mg (Tablets),Gastrointestinals,22.0,31.77
+PROD042,Domperidone 20mg (Capsules),Gastrointestinals,9.95,13.44
+PROD043,Esomeprazole 100mg (Capsules),Gastrointestinals,3.28,4.48
+PROD044,Loperamide 100mg (Tablets),Gastrointestinals,18.01,22.06
+PROD045,Loperamide 100mg (Tablets),Gastrointestinals,6.96,9.53
+PROD046,Cetirizine 20mg (Tablets),Antihistamines,3.76,5.03
+PROD047,Loratadine 100mg (Tablets),Antihistamines,21.91,28.99
+PROD048,Fexofenadine 10mg (Capsules),Antihistamines,15.99,20.82
+PROD049,Fexofenadine 10mg (Tablets),Antihistamines,9.53,12.87
+PROD050,Levocetirizine 10mg (Tablets),Antihistamines,14.36,18.92
+PROD051,Montelukast 20mg (Tablets),Antihistamines,14.86,19.11
+PROD052,Vitamin D3 500mg (Syrup),Vitamins,10.13,14.82
+PROD053,Vitamin D3 500mg (Capsules),Vitamins,3.1,4.21
+PROD054,Vitamin C 500mg (Syrup),Vitamins,4.91,7.51
+PROD055,Multivitamin 10mg (Capsules),Vitamins,9.5,13.81
+PROD056,Multivitamin 10mg (Tablets),Vitamins,4.07,6.23
+PROD057,Calcium Carbonate 20mg (Tablets),Vitamins,14.59,21.99
+PROD058,Calcium Carbonate 500mg (Syrup),Vitamins,10.46,16.21
+PROD059,B-Complex 10mg (Capsules),Vitamins,5.32,8.37
+PROD060,B-Complex 20mg (Tablets),Vitamins,12.54,19.56
+PROD061,Zinc Sulfate 10mg (Syrup),Vitamins,13.04,20.7
+PROD062,Hydrocortisone Cream 2% (Tablets),Dermatologicals,24.91,32.31
+PROD063,Hydrocortisone Cream 2% (Cream),Dermatologicals,8.42,11.44
+PROD064,Clotrimazole Cream 1% (Capsules),Dermatologicals,4.26,5.76
+PROD065,Clotrimazole Cream 1% (Tablets),Dermatologicals,3.05,4.0
+PROD066,Ketoconazole Shampoo 1% (Tablets),Dermatologicals,12.39,15.42
+PROD067,Ketoconazole Shampoo 0.05% (Capsules),Dermatologicals,15.02,21.38
+PROD068,Salicylic Acid Ointment 2% (Cream),Dermatologicals,15.56,20.57
+PROD069,Salicylic Acid Ointment 2% (Capsules),Dermatologicals,22.31,27.62
+PROD070,Salbutamol Inhaler 20mg (Tablets),Respiratory,20.01,26.67
+PROD071,Fluticasone Spray 10mg (Capsules),Respiratory,15.55,19.33
+PROD072,Fluticasone Spray 100mg (Syrup),Respiratory,16.88,21.75
+PROD073,Levosalbutamol 100mg (Syrup),Respiratory,20.83,28.23
+PROD074,Levosalbutamol 100mg (Tablets),Respiratory,20.23,24.87
+PROD075,Ambroxol Syrup 500mg (Syrup),Respiratory,21.12,27.77
+PROD076,Ambroxol Syrup 100mg (Capsules),Respiratory,17.04,22.04
+PROD077,Dextromethorphan 10mg (Tablets),Respiratory,24.09,29.43
+PROD078,Gabapentin 20mg (Tablets),Neurologicals,8.28,11.19
+PROD079,Pregabalin 10mg (Capsules),Neurologicals,7.61,10.19
+PROD080,Pregabalin 500mg (Tablets),Neurologicals,5.29,7.43
+PROD081,Sertraline 10mg (Capsules),Neurologicals,6.5,8.0
+PROD082,Sertraline 100mg (Tablets),Neurologicals,7.99,9.77
+PROD083,Escitalopram 20mg (Tablets),Neurologicals,17.76,25.67
+PROD084,Alprazolam 100mg (Capsules),Neurologicals,11.2,14.32
+PROD085,Alprazolam 10mg (Tablets),Neurologicals,19.12,26.99
+PROD086,Clonazepam 100mg (Tablets),Neurologicals,3.1,4.48
+PROD087,Clonazepam 100mg (Tablets),Neurologicals,15.52,18.89
+PROD088,Metoprolol 10mg (Tablets),Cardiologics,28.14,39.35
+PROD089,Ketoconazole Shampoo 10mg (Tablets),Dermatologicals,14.57,19.41
+PROD090,Losartan 10mg (Tablets),Cardiologics,21.0,28.06
+PROD091,Fluticasone Spray 10mg (Tablets),Respiratory,15.32,20.08
+PROD092,Alprazolam 500mg (Tablets),Neurologicals,29.4,43.39
+PROD093,Multivitamin 10mg (Tablets),Vitamins,14.55,18.68
+PROD094,Azithromycin 10mg (Tablets),Antibiotics,15.9,20.61
+PROD095,Levosalbutamol 10mg (Tablets),Respiratory,8.06,10.88
+PROD096,Ambroxol Syrup 500mg (Tablets),Respiratory,17.65,21.32
+PROD097,Clarithromycin 10mg (Tablets),Antibiotics,5.71,7.14
+PROD098,Losartan 500mg (Tablets),Cardiologics,12.78,18.03
+PROD099,Dextromethorphan 500mg (Tablets),Respiratory,27.66,39.25
+PROD100,Fluticasone Spray 10mg (Tablets),Respiratory,28.92,41.65
+PROD101,Cetirizine 500mg (Tablets),Antihistamines,18.78,23.95
+PROD102,Ciprofloxacin 10mg (Tablets),Antibiotics,25.53,34.61
+PROD103,Lisinopril 10mg (Tablets),Cardiologics,14.55,21.51
+PROD104,Amoxicillin 500mg (Tablets),Antibiotics,16.65,20.43
+PROD105,Dapagliflozin 500mg (Tablets),Antidiabetics,5.54,7.84
+PROD106,Pantoprazole 500mg (Tablets),Gastrointestinals,21.43,28.72
+PROD107,Ciprofloxacin 500mg (Tablets),Antibiotics,17.07,24.51
+PROD108,Paracetamol 10mg (Tablets),Analgesics,19.42,28.91
+PROD109,Ramipril 10mg (Tablets),Cardiologics,15.45,22.95
+PROD110,Fluticasone Spray 500mg (Tablets),Respiratory,10.56,14.28
+PROD111,Salbutamol Inhaler 500mg (Tablets),Respiratory,24.32,29.68
+PROD112,Glimepiride 500mg (Tablets),Antidiabetics,16.07,19.93
+PROD113,Aspirin 500mg (Tablets),Analgesics,17.7,25.95
+PROD114,Ambroxol Syrup 500mg (Tablets),Respiratory,24.25,29.27
+PROD115,Vitamin D3 500mg (Tablets),Vitamins,22.74,32.84
+PROD116,Omeprazole 10mg (Tablets),Gastrointestinals,5.93,7.93
+PROD117,Multivitamin 10mg (Tablets),Vitamins,7.63,11.29
+PROD118,Pantoprazole 10mg (Tablets),Gastrointestinals,23.18,29.08
+PROD119,Salicylic Acid Ointment 500mg (Tablets),Dermatologicals,23.44,31.51
+PROD120,Hydrocortisone Cream 10mg (Tablets),Dermatologicals,28.47,42.33
+PROD121,Dapagliflozin 500mg (Tablets),Antidiabetics,25.35,35.58
+PROD122,Alprazolam 500mg (Tablets),Neurologicals,13.25,16.27
+PROD123,Loratadine 500mg (Tablets),Antihistamines,17.97,26.33
+PROD124,Calcium Carbonate 10mg (Tablets),Vitamins,29.24,42.89
+PROD125,Salbutamol Inhaler 10mg (Tablets),Respiratory,9.05,11.73
+PROD126,Cephalexin 10mg (Tablets),Antibiotics,20.9,30.29
+PROD127,Loratadine 10mg (Tablets),Antihistamines,17.11,20.68
+PROD128,Pantoprazole 500mg (Tablets),Gastrointestinals,20.19,28.62
+PROD129,Levocetirizine 500mg (Tablets),Antihistamines,5.51,7.73
+PROD130,Ambroxol Syrup 10mg (Tablets),Respiratory,29.59,41.93
+PROD131,Metformin 10mg (Tablets),Antidiabetics,21.74,32.14
+PROD132,Ramipril 10mg (Tablets),Cardiologics,29.21,39.32
+PROD133,B-Complex 10mg (Tablets),Vitamins,8.56,10.96
+PROD134,Clotrimazole Cream 10mg (Tablets),Dermatologicals,16.79,23.44
+PROD135,Ibuprofen 10mg (Tablets),Analgesics,15.77,23.39
+PROD136,Domperidone 500mg (Tablets),Gastrointestinals,19.3,26.23
+PROD137,Losartan 500mg (Tablets),Cardiologics,8.8,10.83
+PROD138,Mefenamic Acid 10mg (Tablets),Analgesics,5.63,8.4
+PROD139,Escitalopram 10mg (Tablets),Neurologicals,17.66,22.73
+PROD140,Ambroxol Syrup 10mg (Tablets),Respiratory,22.26,26.89
+PROD141,B-Complex 10mg (Tablets),Vitamins,25.86,35.02
+PROD142,Ambroxol Syrup 10mg (Tablets),Respiratory,24.66,33.94
+PROD143,Escitalopram 10mg (Tablets),Neurologicals,12.52,16.48
+PROD144,Fluticasone Spray 10mg (Tablets),Respiratory,17.52,23.6
+PROD145,Clonazepam 500mg (Tablets),Neurologicals,29.5,42.97
+PROD146,Aspirin 10mg (Tablets),Analgesics,20.04,27.21
+PROD147,Doxycycline 10mg (Tablets),Antibiotics,10.25,14.56
+PROD148,Gliclazide 500mg (Tablets),Antidiabetics,14.19,17.49
+PROD149,Lisinopril 500mg (Tablets),Cardiologics,23.75,29.16
+PROD150,Montelukast 10mg (Tablets),Antihistamines,7.93,10.88
+PROD151,Loperamide 500mg (Tablets),Gastrointestinals,24.48,35.73
+PROD152,Mefenamic Acid 500mg (Tablets),Analgesics,16.23,19.57
+PROD153,Alprazolam 10mg (Tablets),Neurologicals,28.33,39.84
+PROD154,Fluticasone Spray 500mg (Tablets),Respiratory,15.43,20.18
+PROD155,Azithromycin 500mg (Tablets),Antibiotics,15.3,22.68
+PROD156,Mefenamic Acid 500mg (Tablets),Analgesics,27.77,34.11
+PROD157,Pantoprazole 500mg (Tablets),Gastrointestinals,7.0,9.04
+PROD158,Dapagliflozin 500mg (Tablets),Antidiabetics,28.55,37.02
+PROD159,Pantoprazole 10mg (Tablets),Gastrointestinals,23.27,31.19
+PROD160,Sitagliptin 500mg (Tablets),Antidiabetics,28.67,37.92
