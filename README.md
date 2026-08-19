@@ -6,6 +6,12 @@
 
 This end-to-end data analysis project examines the sales, customers, products, and inventory of a pharmacy chain using MySQL and Tableau. The SQL workflow transforms raw CSV files into a clean relational model, while the interactive Tableau dashboard presents the main commercial and operational findings for decision-makers.
 
+## Data Source
+
+This project uses a synthetic pharmacy-chain dataset generated specifically for educational and portfolio purposes with AI assistance.
+
+The dataset simulates customers, products, sales transactions, and inventory records across multiple pharmacy locations. It does not contain real customer, patient, or business information.
+
 ## Project Links
 
 - [View the interactive dashboard on Tableau Public](https://public.tableau.com/views/PharmacyChainExecutiveOverview/ExecutiveOverview?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)
