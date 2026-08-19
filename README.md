@@ -9,6 +9,7 @@ This end-to-end data analysis project examines the sales, customers, products, a
 ## Project Links
 
 - [View the interactive dashboard on Tableau Public](https://public.tableau.com/views/PharmacyChainExecutiveOverview/ExecutiveOverview?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)
+- [Download the Tableau Workbook](https://github.com/abdelazizsabry7/pharmacy-chain-analysis/raw/refs/heads/main/Pharmacy_Chain_Eecutive_Overview.twbx)
 - [SQL analysis](pharmacy_chain_analysis.sql)
 
 ## Dashboard Preview
